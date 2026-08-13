@@ -1,5 +1,5 @@
 #!/bin/bash
-set -exo pipefail
+#Addition feature
 
 echo "First number a : "
 read a
