@@ -9,4 +9,4 @@ sum=$((a + b))
 #subtraction feature
 sub=$((a - b))
 echo "sum is : $sum"
-echo "sub is : $sub"
+echo "subtraction is : $sub"
