@@ -6,7 +6,7 @@ echo "Second number b : "
 read b
 #Addition feature
 sum=$((a + b))
-#subtraction feature
+#subtraction-feature
 sub=$((a - b))
 echo "sum is : $sum"
-echo "sub is : $sub"
+echo "subtraction is : $sub"
